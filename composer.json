@@ -1,0 +1,17 @@
+{
+    "name": "mpesari/psalm-issue",
+    "autoload": {
+        "psr-4": {
+            "Mpesari\\PsalmIssue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mikko Pesari",
+            "email": "mikko@pesari.fi"
+        }
+    ],
+    "require-dev": {
+        "vimeo/psalm": "6.16.1"
+    }
+}
